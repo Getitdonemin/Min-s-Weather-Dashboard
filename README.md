@@ -34,4 +34,4 @@ The following image shows the web application's appearance and functionality:
 
 ### Deployed Application URL:
 
-### GitHub repository URL:
+### GitHub repository URL: https://github.com/Getitdonemin/Mins-Weather-Dashboard/blob/main/README.md
