@@ -32,6 +32,6 @@ THEN I am again presented with current and future conditions for that city
 The following image shows the web application's appearance and functionality:
 ![image](https://user-images.githubusercontent.com/107437104/185492965-6471fe39-f328-4bae-811e-9b12c5f8ca4c.png)
 
-### Deployed Application URL:
+### Deployed Application URL: https://getitdonemin.github.io/Mins-Weather-Dashboard/
 
 ### GitHub repository URL: https://github.com/Getitdonemin/Mins-Weather-Dashboard/blob/main/README.md
